@@ -1,0 +1,52 @@
+{
+  "我": {
+    "zhuyin": "ㄨㄛˇ",
+    "pinyin": "wǒ",
+    "color": "orange"
+  },
+  "你": {
+    "zhuyin": "ㄋㄧˇ",
+    "pinyin": "nǐ",
+    "color": "orange"
+  },
+  "是": {
+    "zhuyin": "ㄕˋ",
+    "pinyin": "shì",
+    "color": "green"
+  },
+  "的": {
+    "zhuyin": "ㄉㄜ˙",
+    "pinyin": "de",
+    "color": "purple"
+  },
+  "喜": {
+    "zhuyin": "ㄒㄧˇ",
+    "pinyin": "xǐ",
+    "color": "orange"
+  },
+  "歡": {
+    "zhuyin": "ㄏㄨㄢ",
+    "pinyin": "huān",
+    "color": "red"
+  },
+  "愛": {
+    "zhuyin": "ㄞˋ",
+    "pinyin": "ài",
+    "color": "green"
+  },
+  "喝": {
+    "zhuyin": "ㄏㄜ",
+    "pinyin": "hē",
+    "color": "red"
+  },
+  "茶": {
+    "zhuyin": "ㄔㄚˊ",
+    "pinyin": "chá",
+    "color": "blue"
+  },
+  "天": {
+    "zhuyin": "ㄊㄧㄢ",
+    "pinyin": "tiān",
+    "color": "red"
+  }
+}
