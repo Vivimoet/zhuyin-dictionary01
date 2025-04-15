@@ -1,0 +1,288 @@
+{\rtf1\ansi\ansicpg932\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+"\uc0\u24779 ": \{"zhuyin": "\u12584 \u12578 \u715 ", "pinyin": "w\u462 n"\},\
+"\uc0\u24756 ": \{"zhuyin": "\u12568 \u12584 \u12575 \u715 ", "pinyin": "cu\'ec"\},\
+"\uc0\u24806 ": \{"zhuyin": "\u12553 \u12583 \u12578 \u715 ", "pinyin": "di\'e0n"\},\
+"\uc0\u24765 ": \{"zhuyin": "\u12561 \u12583 ", "pinyin": "q\u299 "\},\
+"\uc0\u24773 ": \{"zhuyin": "\u12561 \u12583 \u12581 \u714 ", "pinyin": "q\'edng"\},\
+"\uc0\u24763 ": \{"zhuyin": "\u12562 \u12583 \u12581 \u715 ", "pinyin": "x\'ecng"\},\
+"\uc0\u24757 ": \{"zhuyin": "\u12564 \u12580 \u715 ", "pinyin": "ch\'e0ng"\},\
+"\uc0\u24796 ": \{"zhuyin": "\u12562 \u12583 \u714 ", "pinyin": "x\u299 "\},\
+"\uc0\u24764 ": \{"zhuyin": "\u12553 \u12576 \u715 ", "pinyin": "d\'e0o"\},\
+"\uc0\u24792 ": \{"zhuyin": "\u12584 \u12580 \u711 ", "pinyin": "w\u462 ng"\},\
+"\uc0\u24789 ": \{"zhuyin": "\u12554 \u12583 \u715 ", "pinyin": "t\'ec"\},\
+"\uc0\u24774 ": \{"zhuyin": "\u12564 \u12577 \u714 ", "pinyin": "ch\'f3u"\},\
+"\uc0\u24799 ": \{"zhuyin": "\u12584 \u12575 \u714 ", "pinyin": "w\'e9i"\},\
+"\uc0\u24760 ": \{"zhuyin": "\u12560 \u12583 \u715 ", "pinyin": "j\'ec"\},\
+"\uc0\u24794 ": \{"zhuyin": "\u12559 \u12584 ", "pinyin": "h\u363 "\},\
+"\uc0\u24785 ": \{"zhuyin": "\u12559 \u12584 \u12571 \u715 ", "pinyin": "hu\'f2"\},\
+"\uc0\u24801 ": \{"zhuyin": "\u12572 \u715 ", "pinyin": "\'e8"\},\
+"\uc0\u24754 ": \{"zhuyin": "\u12549 \u12575 ", "pinyin": "b\u275 i"\},\
+"\uc0\u24758 ": \{"zhuyin": "\u12551 \u12579 \u715 ", "pinyin": "m\'e8n"\},\
+"\uc0\u24800 ": \{"zhuyin": "\u12559 \u12584 \u12575 \u715 ", "pinyin": "hu\'ec"\},\
+"\uc0\u24860 ": \{"zhuyin": "\u12561 \u12583 \u12573 \u715 ", "pinyin": "qi\'e8"\},\
+"\uc0\u24867 ": \{"zhuyin": "\u12556 \u12581 \u715 ", "pinyin": "l\'e8ng"\},\
+"\uc0\u24826 ": \{"zhuyin": "\u12562 \u12583 \u12581 ", "pinyin": "x\u299 ng"\},\
+"\uc0\u24853 ": \{"zhuyin": "\u12572 \u715 ", "pinyin": "\'e8"\},\
+"\uc0\u24816 ": \{"zhuyin": "\u12553 \u12584 \u12571 \u715 ", "pinyin": "du\'f2"\},\
+"\uc0\u24827 ": \{"zhuyin": "\u12568 \u12572 \u715 ", "pinyin": "c\'e8"\},\
+"\uc0\u24820 ": \{"zhuyin": "\u12563 \u12584 \u12575 \u715 ", "pinyin": "zhu\'ec"\},\
+"\uc0\u24936 ": \{"zhuyin": "\u12558 \u12574 \u711 ", "pinyin": "k\u462 i"\},\
+"\uc0\u24817 ": \{"zhuyin": "\u12555 \u12576 \u711 ", "pinyin": "n\u462 o"\},\
+"\uc0\u24846 ": \{"zhuyin": "\u12549 \u12583 \u715 ", "pinyin": "b\'ec"\},\
+"\uc0\u24822 ": \{"zhuyin": "\u12559 \u12584 \u12580 \u714 ", "pinyin": "hu\'e1ng"\},\
+"\uc0\u24841 ": \{"zhuyin": "\u12585 \u714 ", "pinyin": "y\'fa"\},\
+"\uc0\u24832 ": \{"zhuyin": "\u12561 \u12583 \u12576 \u711 ", "pinyin": "qi\u462 o"\},\
+"\uc0\u24858 ": \{"zhuyin": "\u12585 \u714 ", "pinyin": "y\'fa"\},\
+"\uc0\u24847 ": \{"zhuyin": "\u12583 \u715 ", "pinyin": "y\'ec"\},\
+"\uc0\u24904 ": \{"zhuyin": "\u12568 \u714 ", "pinyin": "c\'ed"\},\
+"\uc0\u24863 \u24819 ": \{"zhuyin": "\u12557 \u12578 \u711  \u12562 \u12583 \u12580 \u711 ", "pinyin": "g\u462 n xi\u462 ng"\},\
+"\uc0\u24859 ": \{"zhuyin": "\u12574 \u715 ", "pinyin": "\'e0i"\},\
+"\uc0\u24825 ": \{"zhuyin": "\u12566 \u12572 \u711 ", "pinyin": "r\u283 "\},\
+"\uc0\u24833 ": \{"zhuyin": "\u12564 \u12577 \u714 ", "pinyin": "ch\'f3u"\},\
+"\uc0\u24840 ": \{"zhuyin": "\u12585 \u715 ", "pinyin": "y\'f9"\},\
+"\uc0\u24910 ": \{"zhuyin": "\u12565 \u12579 \u715 ", "pinyin": "sh\'e8n"\},\
+"\uc0\u24908 ": \{"zhuyin": "\u12559 \u12584 \u12580 ", "pinyin": "hu\u257 ng"\},\
+"\uc0\u24900 ": \{"zhuyin": "\u12556 \u12583 \u715 ", "pinyin": "l\'ec"\},\
+"\uc0\u24909 ": \{"zhuyin": "\u12585 \u12579 \u715 ", "pinyin": "y\'f9n"\},\
+"\uc0\u24894 ": \{"zhuyin": "\u12558 \u12574 \u715 ", "pinyin": "k\'e0i"\},\
+"\uc0\u24884 ": \{"zhuyin": "\u12564 \u12584 \u12580 \u715 ", "pinyin": "chu\'e0ng"\},\
+"\uc0\u24871 ": \{"zhuyin": "\u12558 \u12584 \u12575 \u715 ", "pinyin": "ku\'ec"\},\
+"\uc0\u24903 ": \{"zhuyin": "\u12583 \u12579 ", "pinyin": "y\u299 n"\},\
+"\uc0\u24895 ": \{"zhuyin": "\u12585 \u12578 \u715 ", "pinyin": "yu\'e0n"\},\
+"\uc0\u24907 ": \{"zhuyin": "\u12554 \u12574 \u715 ", "pinyin": "t\'e0i"\},\
+"\uc0\u24951 ": \{"zhuyin": "\u12558 \u12580 ", "pinyin": "k\u257 ng"\},\
+"\uc0\u24930 ": \{"zhuyin": "\u12551 \u12578 \u715 ", "pinyin": "m\'e0n"\},\
+"\uc0\u24931 ": \{"zhuyin": "\u12557 \u12584 \u12578 \u715 ", "pinyin": "gu\'e0n"\},\
+"\uc0\u24927 ": \{"zhuyin": "\u12554 \u12584 \u12581 \u715 ", "pinyin": "t\'f2ng"\},\
+"\uc0\u24922 ": \{"zhuyin": "\u12568 \u12578 \u714 ", "pinyin": "c\'e1n"\},\
+"\uc0\u24920 ": \{"zhuyin": "\u12568 \u12578 \u711 ", "pinyin": "c\u462 n"\},\
+"\uc0\u24950 ": \{"zhuyin": "\u12561 \u12583 \u12581 \u715 ", "pinyin": "q\'ecng"\},\
+"\uc0\u24935 ": \{"zhuyin": "\u12559 \u12584 \u12575 \u715 ", "pinyin": "hu\'ec"\},\
+"\uc0\u24942 ": \{"zhuyin": "\u12556 \u12585 \u715 ", "pinyin": "l\u476 "\},\
+"\uc0\u24925 ": \{"zhuyin": "\u12554 \u12572 \u715 ", "pinyin": "t\'e8"\},\
+"\uc0\u24917 ": \{"zhuyin": "\u12551 \u12584 \u715 ", "pinyin": "m\'f9"\},\
+"\uc0\u24962 ": \{"zhuyin": "\u12583 \u12577 ", "pinyin": "y\u333 u"\},\
+"\uc0\u24956 ": \{"zhuyin": "\u12561 \u12583 ", "pinyin": "q\u299 "\},\
+"\uc0\u24944 ": \{"zhuyin": "\u12584 \u12575 \u715 ", "pinyin": "w\'e8i"\},\
+"\uc0\u24939 ": \{"zhuyin": "\u12569 \u12584 \u12581 \u711 ", "pinyin": "s\u466 ng"\},\
+"\uc0\u24958 ": \{"zhuyin": "\u12585 \u715 ", "pinyin": "y\'f9"\},\
+"\uc0\u24999 ": \{"zhuyin": "\u12564 \u12584 \u12581 ", "pinyin": "ch\u333 ng"\},\
+"\uc0\u24976 ": \{"zhuyin": "\u12556 \u12583 \u12578 \u714 ", "pinyin": "li\'e1n"\},\
+"\uc0\u25003 ": \{"zhuyin": "\u12551 \u12583 \u12579 \u711 ", "pinyin": "m\u464 n"\},\
+"\uc0\u24974 ": \{"zhuyin": "\u12567 \u12581 ", "pinyin": "z\u275 ng"\},\
+"\uc0\u25004 ": \{"zhuyin": "\u12560 \u12583 \u12581 \u711 ", "pinyin": "j\u464 ng"\},\
+"\uc0\u24986 ": \{"zhuyin": "\u12553 \u12578 \u715 ", "pinyin": "d\'e0n"\},\
+"\uc0\u24996 ": \{"zhuyin": "\u12552 \u12579 \u715 ", "pinyin": "f\'e8n"\},\
+"\uc0\u24980 ": \{"zhuyin": "\u12561 \u12583 \u12576 \u714 ", "pinyin": "qi\'e1o"\},\
+"\uc0\u25010 ": \{"zhuyin": "\u12562 \u12583 \u12578 \u715 ", "pinyin": "xi\'e0n"\},\
+"\uc0\u24977 ": \{"zhuyin": "\u12550 \u12583 \u12581 \u714 ", "pinyin": "p\'edng"\},\
+"\uc0\u25001 ": \{"zhuyin": "\u12561 \u12583 \u715 ", "pinyin": "q\'ec"\},\
+"\uc0\u24970 ": \{"zhuyin": "\u12549 \u12575 \u715 ", "pinyin": "b\'e8i"\},\
+"\uc0\u25037 ": \{"zhuyin": "\u12556 \u12583 \u12579 \u711 ", "pinyin": "l\u464 n"\},\
+"\uc0\u25014 ": \{"zhuyin": "\u12583 \u715 ", "pinyin": "y\'ec"\},\
+"\uc0\u25022 ": \{"zhuyin": "\u12559 \u12578 \u715 ", "pinyin": "h\'e0n"\},\
+"\uc0\u25034 ": \{"zhuyin": "\u12576 \u715 ", "pinyin": "\'e0o"\},\
+"\uc0\u25032 ": \{"zhuyin": "\u12562 \u12583 \u12573 \u715 ", "pinyin": "xi\'e8"\},\
+"\uc0\u25033 ": \{"zhuyin": "\u12583 \u12581 ", "pinyin": "y\u299 ng"\},\
+"\uc0\u25026 ": \{"zhuyin": "\u12553 \u12584 \u12581 \u711 ", "pinyin": "d\u466 ng"\},\
+"\uc0\u25031 ": \{"zhuyin": "\u12558 \u12579 \u711 ", "pinyin": "k\u283 n"\},\
+"\uc0\u25062 ": \{"zhuyin": "\u12555 \u12584 \u12571 \u715 ", "pinyin": "nu\'f2"\},\
+"\uc0\u25059 ": \{"zhuyin": "\u12551 \u12579 \u715 ", "pinyin": "m\'e8n"\},\
+"\uc0\u25074 ": \{"zhuyin": "\u12564 \u12581 \u714 ", "pinyin": "ch\'e9ng"\},\
+"\uc0\u25079 ": \{"zhuyin": "\u12559 \u12584 \u12574 \u714 ", "pinyin": "hu\'e1i"\},\
+"\uc0\u25078 ": \{"zhuyin": "\u12556 \u12578 \u711 ", "pinyin": "l\u462 n"\},\
+"\uc0\u25077 ": \{"zhuyin": "\u12551 \u12581 \u711 ", "pinyin": "m\u283 ng"\},\
+"\uc0\u25080 ": \{"zhuyin": "\u12562 \u12585 \u12578 \u714 ", "pinyin": "xu\'e1n"\},\
+"\uc0\u25082 ": \{"zhuyin": "\u12564 \u12578 \u715 ", "pinyin": "ch\'e0n"\},\
+"\uc0\u25084 ": \{"zhuyin": "\u12560 \u12585 \u715 ", "pinyin": "j\'f9"\},\
+"\uc0\u25086 ": \{"zhuyin": "\u12565 \u12572 \u715 ", "pinyin": "sh\'e8"\},\
+"\uc0\u25087 ": \{"zhuyin": "\u12583 \u715 ", "pinyin": "y\'ec"\},\
+"\uc0\u25088 ": \{"zhuyin": "\u12556 \u12583 \u12578 \u715 ", "pinyin": "li\'e0n"\},\
+"\uc0\u25096 ": \{"zhuyin": "\u12557 \u12572 ", "pinyin": "g\u275 "\},\
+"\uc0\u25098 ": \{"zhuyin": "\u12584 \u715 ", "pinyin": "w\'f9"\},\
+"\uc0\u25102 ": \{"zhuyin": "\u12566 \u12584 \u12581 \u714 ", "pinyin": "r\'f3ng"\},\
+"\uc0\u25100 ": \{"zhuyin": "\u12562 \u12585 ", "pinyin": "x\u363 "\},\
+"\uc0\u25101 ": \{"zhuyin": "\u12565 \u12584 \u715 ", "pinyin": "sh\'f9"\},\
+"\uc0\u25104 ": \{"zhuyin": "\u12564 \u12581 \u714 ", "pinyin": "ch\'e9ng"\},\
+"\uc0\u25106 ": \{"zhuyin": "\u12560 \u12583 \u12573 \u715 ", "pinyin": "ji\'e8"\},\
+"\uc0\u25105 ": \{"zhuyin": "\u12584 \u12571 \u711 ", "pinyin": "w\u466 "\},\
+"\uc0\u25110 ": \{"zhuyin": "\u12559 \u12584 \u12571 \u715 ", "pinyin": "hu\'f2"\},\
+"\uc0\u25109 ": \{"zhuyin": "\u12561 \u12583 \u12580 ", "pinyin": "qi\u257 ng"\},\
+"\uc0\u25114 ": \{"zhuyin": "\u12561 \u12583 ", "pinyin": "q\u299 "\},\
+"\uc0\u25115 ": \{"zhuyin": "\u12560 \u12583 \u12570 \u714 ", "pinyin": "ji\'e1"\},\
+"\uc0\u25119 ": \{"zhuyin": "\u12560 \u12583 \u711 ", "pinyin": "j\u464 "\},\
+"\uc0\u25121 ": \{"zhuyin": "\u12558 \u12578 ", "pinyin": "k\u257 n"\},\
+"\uc0\u25122 ": \{"zhuyin": "\u12560 \u12583 \u714 ", "pinyin": "j\'ed"\},\
+"\uc0\u25130 ": \{"zhuyin": "\u12560 \u12583 \u12573 \u714 ", "pinyin": "ji\'e9"\},\
+"\uc0\u25134 ": \{"zhuyin": "\u12556 \u12584 \u715 ", "pinyin": "l\'f9"\},\
+"\uc0\u25136 ": \{"zhuyin": "\u12563 \u12578 \u715 ", "pinyin": "zh\'e0n"\},\
+"\uc0\u25138 ": \{"zhuyin": "\u12562 \u12583 \u715 ", "pinyin": "x\'ec"\},\
+"\uc0\u25140 ": \{"zhuyin": "\u12553 \u12574 \u715 ", "pinyin": "d\'e0i"\},\
+"\uc0\u25139 ": \{"zhuyin": "\u12564 \u12584 \u12571 ", "pinyin": "chu\u333 "\},\
+"\uc0\u25142 ": \{"zhuyin": "\u12559 \u12584 \u715 ", "pinyin": "h\'f9"\},\
+"\uc0\u25151 ": \{"zhuyin": "\u12552 \u12580 \u714 ", "pinyin": "f\'e1ng"\},\
+"\uc0\u25150 ": \{"zhuyin": "\u12556 \u12583 \u715 ", "pinyin": "l\'ec"\},\
+"\uc0\u25152 ": \{"zhuyin": "\u12569 \u12584 \u12571 \u711 ", "pinyin": "su\u466 "\},\
+"\uc0\u25153 ": \{"zhuyin": "\u12549 \u12583 \u12578 \u711 ", "pinyin": "bi\u462 n"\},\
+"\uc0\u25159 ": \{"zhuyin": "\u12565 \u12578 ", "pinyin": "sh\'e0n"\},\
+"\uc0\u25160 ": \{"zhuyin": "\u12559 \u12584 \u715 ", "pinyin": "h\'f9"\},\
+"\uc0\u25161 ": \{"zhuyin": "\u12552 \u12575 ", "pinyin": "f\u275 i"\},\
+"\uc0\u25163 ": \{"zhuyin": "\u12565 \u12577 \u711 ", "pinyin": "sh\u466 u"\},\
+"\uc0\u25165 ": \{"zhuyin": "\u12568 \u12574 \u714 ", "pinyin": "c\'e1i"\},\
+"\uc0\u25166 ": \{"zhuyin": "\u12563 \u12570 ", "pinyin": "zh\u257 "\},\
+"\uc0\u25171 ": \{"zhuyin": "\u12553 \u12570 \u711 ", "pinyin": "d\u462 "\},\
+"\uc0\u25172 ": \{"zhuyin": "\u12566 \u12581 ", "pinyin": "r\u275 ng"\},\
+"\uc0\u25170 ": \{"zhuyin": "\u12549 \u12570 ", "pinyin": "b\u257 "\},\
+"\uc0\u25187 ": \{"zhuyin": "\u12558 \u12577 \u715 ", "pinyin": "k\'f2u"\},\
+"\uc0\u25179 ": \{"zhuyin": "\u12558 \u12580 \u714 ", "pinyin": "k\'e1ng"\},\
+"\uc0\u25176 ": \{"zhuyin": "\u12554 \u12584 \u12571 ", "pinyin": "tu\u333 "\},\
+"\uc0\u25220 ": \{"zhuyin": "\u12564 \u12576 ", "pinyin": "ch\u257 o"\},\
+"\uc0\u25239 ": \{"zhuyin": "\u12558 \u12580 \u715 ", "pinyin": "k\'e0ng"\},\
+"\uc0\u25238 ": \{"zhuyin": "\u12553 \u12577 \u711 ", "pinyin": "d\u466 u"\},\
+"\uc0\u25216 ": \{"zhuyin": "\u12560 \u12583 \u715 ", "pinyin": "j\'ec"\},\
+"\uc0\u25206 ": \{"zhuyin": "\u12552 \u12584 \u714 ", "pinyin": "f\'fa"\},\
+"\uc0\u25225 ": \{"zhuyin": "\u12560 \u12585 \u12573 \u714 ", "pinyin": "ju\'e9"\},\
+"\uc0\u25197 ": \{"zhuyin": "\u12555 \u12583 \u12577 \u711 ", "pinyin": "ni\u468 "\},\
+"\uc0\u25226 ": \{"zhuyin": "\u12549 \u12570 \u711 ", "pinyin": "b\u462 "\},\
+"\uc0\u25212 ": \{"zhuyin": "\u12572 \u715 ", "pinyin": "\'e8"\},\
+"\uc0\u25214 ": \{"zhuyin": "\u12563 \u12576 \u711 ", "pinyin": "zh\u462 o"\},\
+"\uc0\u25209 ": \{"zhuyin": "\u12550 \u12583 ", "pinyin": "p\u299 "\},\
+"\uc0\u25203 ": \{"zhuyin": "\u12549 \u12578 ", "pinyin": "b\u257 n"\},\
+"\uc0\u25234 ": \{"zhuyin": "\u12565 \u12584 ", "pinyin": "sh\u363 "\},\
+"\uc0\u25199 ": \{"zhuyin": "\u12564 \u12572 \u711 ", "pinyin": "ch\u283 "\},\
+"\uc0\u25240 ": \{"zhuyin": "\u12563 \u12572 \u714 ", "pinyin": "zh\'e9"\},\
+"\uc0\u25198 ": \{"zhuyin": "\u12549 \u12578 \u715 ", "pinyin": "b\'e0n"\},\
+"\uc0\u25237 ": \{"zhuyin": "\u12554 \u12577 \u714 ", "pinyin": "t\'f3u"\},\
+"\uc0\u25235 ": \{"zhuyin": "\u12563 \u12584 \u12570 ", "pinyin": "zhu\u257 "\},\
+"\uc0\u25233 ": \{"zhuyin": "\u12583 \u715 ", "pinyin": "y\'ec"\},\
+"\uc0\u25215 ": \{"zhuyin": "\u12564 \u12581 \u714 ", "pinyin": "ch\'e9ng"\},\
+"\uc0\u25289 ": \{"zhuyin": "\u12556 \u12570 ", "pinyin": "l\u257 "\},\
+"\uc0\u25292 ": \{"zhuyin": "\u12549 \u12578 \u715 ", "pinyin": "b\'e0n"\},\
+"\uc0\u25284 ": \{"zhuyin": "\u12563 \u12584 \u711 ", "pinyin": "zh\u468 "\},\
+"\uc0\u25279 ": \{"zhuyin": "\u12551 \u12583 \u12579 \u711 ", "pinyin": "m\u464 n"\},\
+"\uc0\u25282 ": \{"zhuyin": "\u12552 \u12584 \u714 ", "pinyin": "f\'fa"\},\
+"\uc0\u25273 ": \{"zhuyin": "\u12551 \u12571 \u711 ", "pinyin": "m\u466 "\},\
+"\uc0\u25298 ": \{"zhuyin": "\u12560 \u12585 \u715 ", "pinyin": "j\'f9"\},\
+"\uc0\u25307 ": \{"zhuyin": "\u12563 \u12576 ", "pinyin": "zh\u257 o"\},\
+"\uc0\u25259 ": \{"zhuyin": "\u12550 \u12583 ", "pinyin": "p\u299 "\},\
+"\uc0\u25299 ": \{"zhuyin": "\u12554 \u12584 \u12571 \u715 ", "pinyin": "tu\'f2"\},\
+"\uc0\u25300 ": \{"zhuyin": "\u12549 \u12570 \u714 ", "pinyin": "b\'e1"\},\
+"\uc0\u25291 ": \{"zhuyin": "\u12550 \u12576 ", "pinyin": "p\u257 o"\},\
+"\uc0\u25288 ": \{"zhuyin": "\u12555 \u12583 \u12578 ", "pinyin": "ni\u257 n"\},\
+"\uc0\u25256 ": \{"zhuyin": "\u12550 \u12581 ", "pinyin": "p\u275 ng"\},\
+"\uc0\u25277 ": \{"zhuyin": "\u12564 \u12577 ", "pinyin": "ch\u333 u"\},\
+"\uc0\u25276 ": \{"zhuyin": "\u12583 \u12570 ", "pinyin": "y\u257 "\},\
+"\uc0\u25296 ": \{"zhuyin": "\u12557 \u12584 \u12574 \u711 ", "pinyin": "gu\u462 i"\},\
+"\uc0\u25305 ": \{"zhuyin": "\u12563 \u12584 \u12571 \u714 ", "pinyin": "zhu\u333 "\},\
+"\uc0\u25287 ": \{"zhuyin": "\u12551 \u12584 \u711 ", "pinyin": "m\u468 "\},\
+"\uc0\u25293 ": \{"zhuyin": "\u12550 \u12574 ", "pinyin": "p\u257 i"\},\
+"\uc0\u25269 ": \{"zhuyin": "\u12553 \u12583 \u711 ", "pinyin": "d\u464 "\},\
+"\uc0\u25306 ": \{"zhuyin": "\u12550 \u12578 \u715 ", "pinyin": "p\'e0n"\},\
+"\uc0\u25265 ": \{"zhuyin": "\u12549 \u12576 \u715 ", "pinyin": "b\'e0o"\},\
+"\uc0\u25304 ": \{"zhuyin": "\u12560 \u12585 ", "pinyin": ""j\u363 "\},\
+"\uc0\u25302 ": \{"zhuyin": "\u12554 \u12584 \u12571 ", "pinyin": "tu\u333 "\},\
+"\uc0\u25303 ": \{"zhuyin": "\u12576 \u715 ", "pinyin": "\'e0o"\},\
+"\uc0\u25286 ": \{"zhuyin": "\u12564 \u12574 ", "pinyin": "ch\u257 i"\},\
+"\uc0\u25260 ": \{"zhuyin": "\u12554 \u12574 \u714 ", "pinyin": "t\'e1i"\},\
+"\uc0\u25294 ": \{"zhuyin": "\u12556 \u12583 \u12581 ", "pinyin": "l\u299 ng"\},\
+"\uc0\u25308 ": \{"zhuyin": "\u12549 \u12574 \u715 ", "pinyin": "b\'e0i"\},\
+"\uc0\u25366 ": \{"zhuyin": "\u12584 \u12570 ", "pinyin": "w\u257 "\},\
+"\uc0\u25353 ": \{"zhuyin": "\u12578 \u715 ", "pinyin": "\'e0n"\},\
+"\uc0\u25340 ": \{"zhuyin": "\u12550 \u12583 \u12579 ", "pinyin": "p\u299 n"\},\
+"\uc0\u25325 ": \{"zhuyin": "\u12565 \u715 ", "pinyin": "sh\'ec"\},\
+"\uc0\u25345 ": \{"zhuyin": "\u12564 \u714 ", "pinyin": "ch\'ed"\},\
+"\uc0\u25326 ": \{"zhuyin": "\u12560 \u12583 \u12573 \u714 ", "pinyin": "ji\'e9"\},\
+"\uc0\u25341 ": \{"zhuyin": "\u12563 \u12584 \u12574 \u715 ", "pinyin": "zhu\'e0i"\},\
+"\uc0\u25351 ": \{"zhuyin": "\u12563 \u711 ", "pinyin": "zh\u464 "\},\
+"\uc0\u25329 ": \{"zhuyin": "\u12557 \u12584 \u12581 \u711 ", "pinyin": "g\u466 ng"\},\
+"\uc0\u25335 ": \{"zhuyin": "\u12558 \u12576 \u711 ", "pinyin": "k\u462 o"\},\
+"\uc0\u25327 ": \{"zhuyin": "\u12563 \u12581 \u711 ", "pinyin": "zh\u283 ng"\},\
+"\uc0\u25324 ": \{"zhuyin": "\u12557 \u12584 \u12570 ", "pinyin": "gu\u257 "\},\
+"\uc0\u25342 ": \{"zhuyin": "\u12565 \u714 ", "pinyin": "sh\'ed"\},\
+"\uc0\u25332 ": \{"zhuyin": "\u12565 \u12584 \u12578 ", "pinyin": "shu\u257 n"\},\
+"\uc0\u25361 ": \{"zhuyin": "\u12554 \u12583 \u12576 ", "pinyin": "ti\u257 o"\},\
+"\uc0\u25331 ": \{"zhuyin": "\u12561 \u12585 \u12578 \u714 ", "pinyin": "qu\'e1n"\},\
+"\uc0\u25352 ": \{"zhuyin": "\u12561 \u12583 \u12573 \u715 ", "pinyin": "qi\'e8"\},\
+"\uc0\u25343 ": \{"zhuyin": "\u12555 \u12570 \u714 ", "pinyin": "n\'e1"\},\
+"\uc0\u25422 ": \{"zhuyin": "\u12565 \u12576 ", "pinyin": "sh\u257 o"\},\
+"\uc0\u25406 ": \{"zhuyin": "\u12562 \u12583 \u12573 \u714 ", "pinyin": "xi\'e9"\},\
+"\uc0\u25391 ": \{"zhuyin": "\u12563 \u12579 \u715 ", "pinyin": "zh\'e8n"\},\
+"\uc0\u25429 ": \{"zhuyin": "\u12549 \u12584 \u711 ", "pinyin": "b\u468 "\},\
+"\uc0\u25410 ": \{"zhuyin": "\u12584 \u711 ", "pinyin": "w\u468 "\},\
+"\uc0\u25414 ": \{"zhuyin": "\u12558 \u12584 \u12579 \u711 ", "pinyin": "k\u468 n"\},\
+"\uc0\u25423 ": \{"zhuyin": "\u12555 \u12583 \u12573 ", "pinyin": "ni\u275 "\},\
+"\uc0\u25417 ": \{"zhuyin": "\u12563 \u12584 \u12571 ", "pinyin": "zhu\u333 "\},\
+"\uc0\u25402 ": \{"zhuyin": "\u12554 \u12583 \u12581 \u711 ", "pinyin": "t\u464 ng"\},\
+"\uc0\u25424 ": \{"zhuyin": "\u12560 \u12585 \u12578 ", "pinyin": "ju\u257 n"\},\
+"\uc0\u25405 ": \{"zhuyin": "\u12584 \u12578 \u711 ", "pinyin": "w\u462 n"\},\
+"\uc0\u25386 ": \{"zhuyin": "\u12555 \u12584 \u12571 \u714 ", "pinyin": "nu\'f3"\},\
+"\uc0\u25387 ": \{"zhuyin": "\u12568 \u12584 \u12571 \u715 ", "pinyin": "cu\'f2"\},\
+"\uc0\u25384 ": \{"zhuyin": "\u12574 ", "pinyin": "\u257 i"\},\
+"\uc0\u25504 ": \{"zhuyin": "\u12556 \u12585 \u12573 \u715 ", "pinyin": "l\'fc\'e8"\},\
+"\uc0\u25511 ": \{"zhuyin": "\u12558 \u12584 \u12581 \u715 ", "pinyin": "k\'f2ng"\},\
+"\uc0\u25458 ": \{"zhuyin": "\u12560 \u12585 \u12578 \u711 ", "pinyin": "ju\u462 n"\},\
+"\uc0\u25494 ": \{"zhuyin": "\u12583 \u12573 \u715 ", "pinyin": "y\'e8"\},\
+"\uc0\u25506 ": \{"zhuyin": "\u12554 \u12578 \u715 ", "pinyin": "t\'e0n"\},\
+"\uc0\u25509 ": \{"zhuyin": "\u12560 \u12583 \u12573 ", "pinyin": "ji\u275 "\},\
+"\uc0\u25463 ": \{"zhuyin": "\u12560 \u12583 \u12573 \u714 ", "pinyin": "ji\'e9"\},\
+"\uc0\u25447 ": \{"zhuyin": "\u12550 \u12581 \u711 ", "pinyin": "p\u283 ng"\},\
+"\uc0\u25496 ": \{"zhuyin": "\u12560 \u12585 \u12573 \u714 ", "pinyin": "ju\'e9"\},\
+"\uc0\u25514 ": \{"zhuyin": "\u12568 \u12584 \u12571 \u715 ", "pinyin": "cu\'f2"\},\
+"\uc0\u25457 ": \{"zhuyin": "\u12574 \u714 ", "pinyin": "\'e1i"\},\
+"\uc0\u25513 ": \{"zhuyin": "\u12583 \u12578 \u711 ", "pinyin": "y\u462 n"\},\
+"\uc0\u25481 ": \{"zhuyin": "\u12553 \u12583 \u12576 \u715 ", "pinyin": "di\'e0o"\},\
+"\uc0\u25475 ": \{"zhuyin": "\u12569 \u12576 \u711 ", "pinyin": "s\u462 o"\},\
+"\uc0\u25499 ": \{"zhuyin": "\u12557 \u12584 \u12570 \u715 ", "pinyin": "gu\'e0"\},\
+"\uc0\u25451 ": \{"zhuyin": "\u12551 \u12579 \u714 ", "pinyin": "m\'e9n"\},\
+"\uc0\u25512 ": \{"zhuyin": "\u12554 \u12584 \u12575 ", "pinyin": "tu\u299 "\},\
+"\uc0\u25476 ": \{"zhuyin": "\u12556 \u12584 \u12579 ", "pinyin": "l\u363 n"\},\
+"\uc0\u25480 ": \{"zhuyin": "\u12565 \u12577 \u715 ", "pinyin": "sh\'f2u"\},\
+"\uc0\u25497 ": \{"zhuyin": "\u12563 \u12581 ", "pinyin": "zh\u275 ng"\},\
+"\uc0\u25505 ": \{"zhuyin": "\u12568 \u12574 \u711 ", "pinyin": "c\u462 i"\},\
+"\uc0\u25516 ": \{"zhuyin": "\u12560 \u12585 \u714 ", "pinyin": "j\u363 "\},\
+"\uc0\u25490 ": \{"zhuyin": "\u12550 \u12574 \u714 ", "pinyin": "p\'e1i"\},\
+"\uc0\u25487 ": \{"zhuyin": "\u12554 \u12576 ", "pinyin": "t\u257 o"\},\
+"\uc0\u25472 ": \{"zhuyin": "\u12562 \u12583 \u12578 ", "pinyin": "xi\u257 n"\},\
+"\uc0\u25467 ": \{"zhuyin": "\u12555 \u12583 \u12578 \u711 ", "pinyin": "ni\u462 n"\},\
+"\uc0\u25449 ": \{"zhuyin": "\u12556 \u12583 \u12573 \u715 ", "pinyin": "li\'e8"\},\
+"\uc0\u25448 ": \{"zhuyin": "\u12565 \u12572 \u711 ", "pinyin": "sh\u283 "\},\
+"\uc0\u25507 ": \{"zhuyin": "\u12564 \u12572 \u715 ", "pinyin": "ch\'e8"\},\
+"\uc0\u25484 ": \{"zhuyin": "\u12563 \u12580 \u711 ", "pinyin": "zh\u462 ng"\},\
+"\uc0\u25551 ": \{"zhuyin": "\u12551 \u12583 \u12576 \u714 ", "pinyin": "mi\'e1o"\},\
+"\uc0\u25536 ": \{"zhuyin": "\u12560 \u12583 \u12578 \u711 ", "pinyin": "ji\u462 n"\},\
+"\uc0\u25577 ": \{"zhuyin": "\u12558 \u12574 ", "pinyin": "k\u257 i"\},\
+"\uc0\u25545 ": \{"zhuyin": "\u12566 \u12577 \u714 ", "pinyin": "r\'f3u"\},\
+"\uc0\u25542 ": \{"zhuyin": "\u12558 \u12584 \u12575 \u714 ", "pinyin": "ku\'ed"\},\
+"\uc0\u25549 ": \{"zhuyin": "\u12567 \u12577 \u715 ", "pinyin": "z\'f2u"\},\
+"\uc0\u25554 ": \{"zhuyin": "\u12564 \u12570 ", "pinyin": "ch\u257 "\},\
+"\uc0\u25571 ": \{"zhuyin": "\u12564 \u12584 \u12574 \u711 ", "pinyin": "chu\u462 i"\},\
+"\uc0\u25552 ": \{"zhuyin": "\u12554 \u12583 \u714 ", "pinyin": "t\'ed"\},\
+"\uc0\u25569 ": \{"zhuyin": "\u12584 \u12571 \u715 ", "pinyin": "w\'f2"\},\
+"\uc0\u25558 ": \{"zhuyin": "\u12583 ", "pinyin": "y\u299 "\},\
+"\uc0\u25581 ": \{"zhuyin": "\u12560 \u12583 \u12573 ", "pinyin": "ji\u275 "\},\
+"\uc0\u25582 ": \{"zhuyin": "\u12559 \u12584 \u12575 ", "pinyin": "hu\u299 "\},\
+"\uc0\u25462 ": \{"zhuyin": "\u12564 \u12584 \u12575 \u714 ", "pinyin": "chu\'ed"\},\
+"\uc0\u25588 ": \{"zhuyin": "\u12585 \u12578 \u714 ", "pinyin": "yu\'e1n"\},\
+"\uc0\u25578 ": \{"zhuyin": "\u12560 \u12583 \u12577 ", "pinyin": "ji\u363 "\},\
+"\uc0\u25563 ": \{"zhuyin": "\u12559 \u12584 \u12578 \u715 ", "pinyin": "hu\'e0n"\},\
+"\uc0\u25682 ": \{"zhuyin": "\u12549 \u12583 \u12581 \u715 ", "pinyin": "b\'ecng"\},\
+"\uc0\u25562 ": \{"zhuyin": "\u12583 \u12580 \u714 ", "pinyin": "y\'e1ng"\},\
+"\uc0\u25619 ": \{"zhuyin": "\u12568 \u12584 \u12571 ", "pinyin": "cu\u333 "\},\
+"\uc0\u25662 ": \{"zhuyin": "\u12563 \u12570 \u715 ", "pinyin": "zh\'e0"\},\
+"\uc0\u25630 ": \{"zhuyin": "\u12557 \u12576 \u711 ", "pinyin": "g\u462 o"\},\
+"\uc0\u25642 ": \{"zhuyin": "\u12554 \u12580 \u714 ", "pinyin": "t\'e1ng"\},\
+"\uc0\u25645 ": \{"zhuyin": "\u12553 \u12570 ", "pinyin": "d\u257 "\},\
+"\uc0\u25661 ": \{"zhuyin": "\u12564 \u12570 \u714 ", "pinyin": "ch\'e1"\},\
+"\uc0\u25644 ": \{"zhuyin": "\u12549 \u12578 ", "pinyin": "b\u257 n"\},\
+"\uc0\u25615 ": \{"zhuyin": "\u12549 \u12571 \u714 ", "pinyin": "b\'f3"\},\
+"\uc0\u25628 ": \{"zhuyin": "\u12569 \u12577 ", "pinyin": "s\u333 u"\},\
+"\uc0\u25620 ": \{"zhuyin": "\u12569 \u12576 ", "pinyin": "s\u257 o"\},\
+"\uc0\u25613 ": \{"zhuyin": "\u12569 \u12584 \u12579 \u711 ", "pinyin": "s\u468 n"\}\
+\}}
