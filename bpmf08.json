@@ -886,5 +886,8 @@
 "齲": {"zhuyin": "ㄑㄩˇ", "pinyin": "qǔ"},
 "龍": {"zhuyin": "ㄌㄨㄥˊ", "pinyin": "lóng"},
 "龔": {"zhuyin": "ㄍㄨㄥ", "pinyin": "gōng"},
-"龜": {"zhuyin": "ㄍㄨㄟ", "pinyin": "guī"}
+"龜": {"zhuyin": "ㄍㄨㄟ", "pinyin": "guī"},
+"上": { "zhuyin": "ㄕㄤˋ", "pinyin": "shàng" },
+"下": { "zhuyin": "ㄒㄧㄚˋ", "pinyin": "xià" },
+"右": { "zhuyin": "ㄧㄡˋ", "pinyin": "yòu" }
     }
